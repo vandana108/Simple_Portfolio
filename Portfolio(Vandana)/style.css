@@ -1,0 +1,7 @@
+nav {
+  background-color: skyblue; /* Set background color to blue */
+  padding: 5px;
+  color: white; /* Set text color to white for contrast */
+  display: flex;
+  justify-content: space-between;
+}
